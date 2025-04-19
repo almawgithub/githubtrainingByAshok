@@ -1,7 +1,3 @@
-
 3. Boolean flag = true
-
-2. String name="Abathun"
- 
 1. int x=90
 
